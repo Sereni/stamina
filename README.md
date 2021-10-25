@@ -43,7 +43,7 @@ Of course the above stops being a problem if there's no weight on the bar to beg
 Trigger warning: this method involves seeing your weight on the scale. If that's no fun to you, ask a friend to record the readings and do the math for you.
 1. Put a bathroom scale onto the center panel. Stand on it and take a reading.
 2. Reset the scale, step on it, grab the bar and do your best attempt at gameplay posture. It will feel slightly off, because the scale adds height. Also, the reading will fluctuate. Take the reading.
-3. Divide 2nd reading by the 1st, multiply by 100, and that's the % of your body weight on the bar.
+3. Divide 2nd reading by the 1st, multiply by 100, and that's the % of your body weight on the feet. 100 minus that number is the % of body weight on the bar.
 
 Unloading the bar is a complex change, because it will likely force you towards a sliding form, as well as finding the right amount of grip, and perhaps discovering new muscles in the legs that didn't have to work as hard before. On the upside, it makes upper body soreness and injuries practically disappear.
 

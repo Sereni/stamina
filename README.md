@@ -25,6 +25,8 @@ The first thing that obviously stood out to me: the more my muscles are engaged,
 ### Using a bar that fits
 Arcade pads were built with an average-sized guy in mind. The further you are from that size, the worse it will fit ergonomically. Ergonomics are important, because a slight discomfort over hours and days of gameplay can develop into chronic pain or injury, and a good-fitting bar may keep you out of that. Shoulders, wrists, nerves, and even feet were helped with ergonomic bars. Check out [Bar mods](https://sereni.github.io/bar-mods/) for ideas.
 
+> Last SRPG I struggled so hard to hit my undersensitive up arrow, that I ended up basically breaking a bone in my foot. I was reaching for it so hard at the angle I was at with the bar. And I'm not that short, but short enough. When I switched to using the bar mod, and making adjustments to my feet/shoes, I have been able to maintain pain free playing since. —Freyja
+
 Injuries aside, having control over the bar makes it easier to implement the following two strategies.
 
 ### Keeping the weight closer to the bar
